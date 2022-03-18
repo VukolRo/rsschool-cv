@@ -1,16 +1,22 @@
 ## [rsschool-cv](https://github.com/VukolRo/rsschool-cv)
 
 # Rodion Vukolov 
-![Rodion Vukolov](imgs/ava.jpg =100x20)
+![Rodion Vukolov](imgs/ava.jpg)
 
 ### Contact information:
 
-Phone: +7 (903) 302-28-37
-E-mail: vukolovrodion@gmail.com
-discord: Rodion (@VukolRo)
+Phone: +7 (903) 302-28-37                                               
+E-mail: vukolovrodion@gmail.com                                                
+discord: Rodion (@VukolRo)                                                 
 [Telegram](https://t.me/moio_imya) [LinkedIn](http://www.linkedin.com/in/rodion-vukolov) [GitHub](https://github.com/VukolRo) [CodeWars](https://www.codewars.com/users/VukolRo)
 
+***
+
 ### Briefly About Myself:
+My current goal is to find a job where I would work with pleasure. What work with pleasure means for me?
+I'm a person who loves when people around feel themself comfortable. I prefer friendly, responsive, sympathetic team and more freedom than restrictions in work process. Decent, fair pay and good growth prospects are also important for me.
+Last but not least is a growth in the technical direction. Interesting tasks, challenging projects which would enhance my skills.
+
 My strengths are the support of the people around me. Support not only in word but also in deed.
 
 I have extensive work experience. It might sounds not good from applicant, but during that way I have tried to listen myself, I've been always seeking for new challenges, and I've been quitting without doubt all jobs I've finding out not matching with my lifetime goals.
@@ -21,14 +27,16 @@ Currently I'm on my way to my very first job as software developer. I've started
 In that case, I had have to figure out my goals which was to study at "School 21", following their schedule, where in first 12-17 months we are learning fundamentals of programming using C language, than after maximum 17 months we must to take a 6 months internship to practice our skills in a real field. And than come back to school and choose the specialization which you would like more trying one ( or each) of specialization's branch of projects.
 But I have decided that I haven't got enough time to do it in that way anymore. I've realized that I should have skills, specialization and job as soon as it possible. So, now I'm studying in RS-School on a front-end/javaScript course. And my goal is to finish it in 3-4 months and got a job.
 
+***
+
 ### Skills and Proficiency:
 - GIT, GitHub
 - Linux, MacOS, Windows
 - C, JavaScript (basics)
 - HTML5, CSS3
 - VS Code, Vim, terminal
-- 
 
+***
 
 ### Code example:
 > Kata from [CodeWars](https://www.codewars.com/) by [jhoffner](https://www.codewars.com/users/jhoffner)
@@ -41,7 +49,7 @@ But I have decided that I haven't got enough time to do it in that way anymore. 
 > The number will be passed in as a string of only digits. 
 >It should return a five digit integer. The number passed may be as large as 1000 digits. 
 
-#### My solution
+**My solution:**
 ```js
 function solution(digits){
 	let num = 0;
@@ -52,11 +60,13 @@ function solution(digits){
 	return num;
 }
 ```
-
+***
 
 ### Experience:
-[rsschool-cv](https://github.com/VukolRo/rsschool-cv) - First project in RS-School.
+[rsschool-cv](https://github.com/VukolRo/rsschool-cv) - First project in RS-School.                          
 [GitHub](https://github.com/VukolRo) - My personal GitHub account with all of my projects.
+
+***
 
 ### Languages:
 
