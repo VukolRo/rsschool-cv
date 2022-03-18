@@ -1,17 +1,34 @@
 ## [rsschool-cv](https://github.com/VukolRo/rsschool-cv)
 
-# Rodion Vukolov
+# Rodion Vukolov 
+![Rodion Vukolov](imgs/ava.jpg =100x20)
 
 ### Contact information:
 
 Phone: +7 (903) 302-28-37
 E-mail: vukolovrodion@gmail.com
 discord: Rodion (@VukolRo)
-[Telegram](https://t.me/moio_imya) [LinkedIn](http://www.linkedin.com/in/rodion-vukolov) [GitHub](https://github.com/VukolRo)
+[Telegram](https://t.me/moio_imya) [LinkedIn](http://www.linkedin.com/in/rodion-vukolov) [GitHub](https://github.com/VukolRo) [CodeWars](https://www.codewars.com/users/VukolRo)
 
 ### Briefly About Myself:
+My strengths are the support of the people around me. Support not only in word but also in deed.
+
+I have extensive work experience. It might sounds not good from applicant, but during that way I have tried to listen myself, I've been always seeking for new challenges, and I've been quitting without doubt all jobs I've finding out not matching with my lifetime goals.
+I have worked in leadership positions. I've been hiring and training stuff, managing work schedule, performing other daily administrative staff duties.
+I have worked as an engineer in manufacturing. It wasn't rocket manufacturing, but I've developed a technological process for the manufacture of wooden containers for the oil sector, had having only blueprints of that containers. Than I've helped with launch a wooden containers workshop, find and train stuff, and managing that workshop. And it's still functioning, giving job for people and earning money for owner.
+
+Currently I'm on my way to my very first job as software developer. I've started my way to become apart of IT sphere few years ago, and my first goal was a quality assurance part of IT. After few months I've realized that I'm interesting more of development of software, so I've found an opportunity to try my best in a franchise of "Ecole 42" (French programming school) which is in Russia has name "School 21". I've passed the 26 day trial and than studied there for 6 months until the war started.
+In that case, I had have to figure out my goals which was to study at "School 21", following their schedule, where in first 12-17 months we are learning fundamentals of programming using C language, than after maximum 17 months we must to take a 6 months internship to practice our skills in a real field. And than come back to school and choose the specialization which you would like more trying one ( or each) of specialization's branch of projects.
+But I have decided that I haven't got enough time to do it in that way anymore. I've realized that I should have skills, specialization and job as soon as it possible. So, now I'm studying in RS-School on a front-end/javaScript course. And my goal is to finish it in 3-4 months and got a job.
 
 ### Skills and Proficiency:
+- GIT, GitHub
+- Linux, MacOS, Windows
+- C, JavaScript (basics)
+- HTML5, CSS3
+- VS Code, Vim, terminal
+- 
+
 
 ### Code example:
 > Kata from [CodeWars](https://www.codewars.com/) by [jhoffner](https://www.codewars.com/users/jhoffner)
@@ -38,9 +55,10 @@ function solution(digits){
 
 
 ### Experience:
-[rsschool-cv](https://github.com/VukolRo/rsschool-cv) - 
-[GitHub](https://github.com/VukolRo)
+[rsschool-cv](https://github.com/VukolRo/rsschool-cv) - First project in RS-School.
+[GitHub](https://github.com/VukolRo) - My personal GitHub account with all of my projects.
 
 ### Languages:
 
-English - Intermediate/Upper-intermediate (according to the online test at EFset Logo www.efset.org)
+English - Intermediate/Upper-intermediate
+Russian - native
