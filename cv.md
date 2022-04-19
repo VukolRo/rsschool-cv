@@ -17,7 +17,7 @@ My current goal is to find a job where I would work with pleasure. What work wit
 I'm a person who loves when people around feel themself comfortable. I prefer friendly, responsive, sympathetic team and more freedom than restrictions in work process. Decent, fair pay and good growth prospects are also important for me.
 Last but not least is a growth in the technical direction. Interesting tasks, challenging projects which would enhance my skills.
 
-My strengths are the support of the people around me. Support not only in word but also in deed.
+My strengths are the support of the people around me. Support not only by words but also by deeds.
 
 I have extensive work experience. It might sounds not good from applicant, but during that way I have tried to listen myself, I've been always seeking for new challenges, and I've been quitting without doubt all jobs I've finding out not matching with my lifetime goals.
 I have worked in leadership positions. I've been hiring and training stuff, managing work schedule, performing other daily administrative staff duties.
