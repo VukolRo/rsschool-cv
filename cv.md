@@ -8,7 +8,7 @@
 Phone: +7 (903) 302-28-37                                               
 E-mail: vukolovrodion@gmail.com                                                
 discord: Rodion (@VukolRo)                                                 
-[Telegram](https://t.me/moio_imya) [LinkedIn](http://www.linkedin.com/in/rodion-vukolov) [GitHub](https://github.com/VukolRo) [CodeWars](https://www.codewars.com/users/VukolRo)
+[Telegram](https://t.me/moio_imya) [LinkedIn](http://www.linkedin.com/in/rodion-vukolov) [GitHub](https://github.com/VukolRo) [CodeWars](https://www.codewars.com/users/VukolRo) [JetBrains Academy](https://hyperskill.org/profile/255704620)
 
 ***
 
@@ -32,9 +32,9 @@ But I have decided that I haven't got enough time to do it in that way anymore. 
 ### Skills and Proficiency:
 - GIT, GitHub
 - Linux, MacOS, Windows
-- C, JavaScript (basics)
+- C, JavaScript (basics), Kotlin(basics)
 - HTML5, CSS3
-- VS Code, Vim, terminal
+- IntelliJ IDEA, VS Code, Vim, terminal
 
 ***
 
@@ -63,8 +63,10 @@ function solution(digits){
 ***
 
 ### Experience:
-[rsschool-cv](https://github.com/VukolRo/rsschool-cv) - First project in RS-School.                          
+[rsschool-cv](https://github.com/VukolRo/rsschool-cv) - First project in RS-School.
+[shelter](https://rolling-scopes-school.github.io/vukolro-JSFE2022Q1/shelter/) - Second project in RS-School.
 [GitHub](https://github.com/VukolRo) - My personal GitHub account with all of my projects.
+[JetBrains Academy](https://hyperskill.org/profile/255704620) - Kotlin cours by Jet Brains
 
 ***
 
